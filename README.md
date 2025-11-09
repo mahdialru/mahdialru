@@ -26,4 +26,6 @@ I am a 2nd year computer science student at Carleton University, passionate abou
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
+## 📊 GitHub Activity
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdialru&theme=github-compact)
