@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ## 🧑‍💻 About Me:
 I am a 2nd year computer science student at Carleton University, passionate about machine learning and building robust applications.
 
@@ -28,4 +27,4 @@ I am a 2nd year computer science student at Carleton University, passionate abou
 
 ##📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdialru&show_icons=true&theme=radical)
--->
+
