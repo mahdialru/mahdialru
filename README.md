@@ -28,4 +28,4 @@ I am a 2nd year computer science student at Carleton University, passionate abou
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdialru&theme=github-compact)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahdialru&theme=react-dark&hide_border=true&area=true)
